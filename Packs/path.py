@@ -1,0 +1,8 @@
+raw_data=r'C:\Users\birhiman\Documents\Zenoti-Files\csat-dsat\New - Approach\CSAT-DSAT-Refinement\raw-data'
+interim_data_path=r'C:\Users\birhiman\Documents\Zenoti-Files\csat-dsat\New - Approach\CSAT-DSAT-Refinement\interim_data'
+agent_list_path=r'C:\Users\birhiman\Documents\Zenoti-Files\csat-dsat\New - Approach\CSAT-DSAT-Refinement\utils'
+pa_cluster_path=r'C:\Users\birhiman\Documents\Zenoti-Files\csat-dsat\New - Approach\CSAT-DSAT-Refinement\utils'
+utils=r'C:\Users\birhiman\Documents\Zenoti-Files\csat-dsat\New - Approach\CSAT-DSAT-Refinement\utils'
+base_model=r'C:\Users\birhiman\Documents\Zenoti-Files\csat-dsat\New - Approach\CSAT-DSAT-Refinement\Final-Models\base-model'
+retrain_model=r'C:\Users\birhiman\Documents\Zenoti-Files\csat-dsat\New - Approach\CSAT-DSAT-Refinement\Final-Models\retrain-models'
+model_versions=r'C:\Users\birhiman\Documents\Zenoti-Files\csat-dsat\New - Approach\CSAT-DSAT-Refinement\Final-Models\model-versions'

@@ -1,0 +1,11 @@
+from path import *
+r_ccsd=utils+r'\ccsd_scaler.pkl'
+r_ccsnsd=utils+r'\ccsnsd_scaler.pkl'
+r_em=utils+r'\em_scaler.pkl'
+r_unccnsd=utils+r'\unccnsd_scaler.pkl'
+r_unccsd=utils+r'\unccsd_scaler.pkl'
+s_unccsd=utils+r'\unccsd_standard_scaler.pkl'
+s_unccnsd=utils+r'\unccnsd_standard_scaler.pkl'
+s_ccsd=utils+r'\ccsd_standard_scaler.pkl'
+s_ccnsd=utils+r'\ccnsd_standard_scaler.pkl'
+s_em=utils+r'\em_standard_scaler.pkl'
